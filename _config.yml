@@ -1,0 +1,28 @@
+name: joltbitz
+favicon: null
+layout_spectrum: 0.07213966478593647
+typography_spectrum: 0.6258080103434622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07586960913613439
+  lightness: 0.048762313555926085
+  saturation: 0.01638970337808132
+  rhythmicContrast: 0.4879612058866769
+purpose: []
